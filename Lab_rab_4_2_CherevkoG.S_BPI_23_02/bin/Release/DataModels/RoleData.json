@@ -1,0 +1,20 @@
+[
+  {
+    "Id": 1,
+    "NameRole": "Директор",
+    "SaveCommand": {},
+    "CancelCommand": {}
+  },
+  {
+    "Id": 2,
+    "NameRole": "Бухгалтер",
+    "SaveCommand": {},
+    "CancelCommand": {}
+  },
+  {
+    "Id": 3,
+    "NameRole": "Менеджер",
+    "SaveCommand": {},
+    "CancelCommand": {}
+  }
+]
